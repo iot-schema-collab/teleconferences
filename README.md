@@ -1,15 +1,14 @@
 # teleconferences
 repository for teleconference materials
 
-iotschema community teleconferences are the third Thursday of each month, from 10:00 to 11:00 AM Pacific Time
+iotschema community teleconferences are the third Thursday of each month, from 9:00 to 10:00 AM Pacific Time
 
 Thursday, August 16
 9:00 – 10:00am
 Monthly on the third Thursday, until Oct 18, 2018
 https://SmartThings.zoom.us/j/701286663
-77 guests
-15 yes, 7 no, 4 maybe, 51 awaiting
-Description:Hi there, 
+
+Description: 
 
 Michael Koster is inviting you to a scheduled Zoom meeting. 
 
@@ -17,12 +16,22 @@ Join from PC, Mac, Linux, iOS or Android: https://SmartThings.zoom.us/j/70128666
 
 Or iPhone one-tap :
     US: +14086380968,,701286663#  or +16468769923,,701286663# 
+
 Or Telephone:
     Dial(for higher quality, dial a number based on your current location): 
-        US: +1 408 638 0968  or +1 646 876 9923  or +1 669 900 6833  or +1 877 853 5257 (Toll Free) or +1 855 880 1246 (Toll Free)
-        South Korea: +82 (0) 2 6022 2322  or +82 80 822 0250 (Toll Free)
-    Meeting ID: 701 286 663
-    International numbers available: https://zoom.us/u/cI2L472jm
+        
+        US: +1 408 638 0968  
+        or +1 646 876 9923  
+        or +1 669 900 6833  
+        or +1 877 853 5257 (Toll Free) 
+        or +1 855 880 1246 (Toll Free)
+        
+        South Korea: +82 (0) 2 6022 2322  
+        or +82 80 822 0250 (Toll Free)
+
+Meeting ID: 701 286 663
+
+International numbers available: https://zoom.us/u/cI2L472jm
 
 Subject: 
 iot.schema.org Community Teleconference
