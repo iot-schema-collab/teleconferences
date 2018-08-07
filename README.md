@@ -28,9 +28,9 @@ Subject:
 iot.schema.org Community Teleconference
 
 Agenda:
-- Landing Page and Introductory Materials for getting started
-- Update on the meta-model ontology including Feature of Interest and recent additions
-- How to include Haystack vocabulary in iot.schema.org
+- Review
+- Updates
+- As needed
 - AOB
 
 
